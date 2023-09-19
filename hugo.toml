@@ -2,6 +2,7 @@ baseURL = 'https://tylerdomitrovich.dev/'
 languageCode = 'en-us'
 title = 'Tyler Domtrovich'
 theme = 'hugo-theme-nix'
+canonifyURLs = true
 
 [params]
   Name = "Tyler Domitrovich"
