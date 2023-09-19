@@ -1,0 +1,14 @@
+baseURL = 'https://tylerdomitrovich.dev/'
+languageCode = 'en-us'
+title = 'Tyler Domtrovich'
+theme = 'hugo-theme-nix'
+
+[params]
+  Name = "Tyler Domitrovich"
+  HeaderUsername = "tyler"
+  HeaderHostname = "website"
+  About = "Hi I'm Tyler. I write software and occasional software-related blog posts."
+  ProfilePicture = "/mountain_tyler.png"
+  GithubID = "tydomitrovich"
+  Email = "tydomit@gmail.com"
+  LinkedInId = "tyler-domitrovich"
