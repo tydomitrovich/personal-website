@@ -1,4 +1,4 @@
-baseURL = 'https://tylerdomitrovich.dev/'
+baseURL = 'https://tylerdomitrovich.com/'
 languageCode = 'en-us'
 title = 'Tyler Domtrovich'
 theme = 'hugo-theme-nix'
@@ -8,7 +8,7 @@ canonifyURLs = true
   Name = "Tyler Domitrovich"
   HeaderUsername = "tyler"
   HeaderHostname = "website"
-  About = "Hi I'm Tyler. I write software and occasional software-related blog posts."
+  About = "Hi, I'm Tyler. I enjoy building and fixing software, and learning along the way."
   ProfilePicture = "/mountain_tyler.png"
   GithubID = "tydomitrovich"
   Email = "tydomit@gmail.com"
